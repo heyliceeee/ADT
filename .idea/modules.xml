@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.linkedList/1.linkedList.iml" filepath="$PROJECT_DIR$/1.linkedList/1.linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.doubleLinkedUnorderedList/10.doubleLinkedUnorderedList.iml" filepath="$PROJECT_DIR$/10.doubleLinkedUnorderedList/10.doubleLinkedUnorderedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.arraySearch/11.arraySearch.iml" filepath="$PROJECT_DIR$/11.arraySearch/11.arraySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.linkedListSearch/12.linkedListSearch.iml" filepath="$PROJECT_DIR$/12.linkedListSearch/12.linkedListSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.arraySort/13.arraySort.iml" filepath="$PROJECT_DIR$/13.arraySort/13.arraySort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.linkedListSort/14.linkedListSort.iml" filepath="$PROJECT_DIR$/14.linkedListSort/14.linkedListSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.linkedStack/2.linkedStack.iml" filepath="$PROJECT_DIR$/2.linkedStack/2.linkedStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.doubleLinkedList/3.doubleLinkedList.iml" filepath="$PROJECT_DIR$/3.doubleLinkedList/3.doubleLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.linkedStack - calculator postfix/4.linkedStack - calculator postfix.iml" filepath="$PROJECT_DIR$/4.linkedStack - calculator postfix/4.linkedStack - calculator postfix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.arrayStack/5.arrayStack.iml" filepath="$PROJECT_DIR$/5.arrayStack/5.arrayStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.arrayStack - calculator postfix/6.arrayStack - calculator postfix.iml" filepath="$PROJECT_DIR$/6.arrayStack - calculator postfix/6.arrayStack - calculator postfix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.linkedQueue/7.linkedQueue.iml" filepath="$PROJECT_DIR$/7.linkedQueue/7.linkedQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.circularArrayQueue/8.circularArrayQueue.iml" filepath="$PROJECT_DIR$/8.circularArrayQueue/8.circularArrayQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.arrayOrderedList/9.arrayOrderedList.iml" filepath="$PROJECT_DIR$/9.arrayOrderedList/9.arrayOrderedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ADT.iml" filepath="$PROJECT_DIR$/.idea/ADT.iml" />
+    </modules>
+  </component>
+</project>
